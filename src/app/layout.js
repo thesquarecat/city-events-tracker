@@ -22,7 +22,13 @@ export default function RootLayout({ children }) {
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <body>
+    {children}
+
+    <footer className="text-center text-sm text-gray-500 py-6">
+    ASU CSE412 Final Project
+    </footer>
+    </body>
     </html>
   );
 }
