@@ -23,7 +23,7 @@ Install these first:
 - PostgreSQL
 - Git
 
-## Setup Instructions
+## Setup Instructions (run the commands from terminal)
 
 ### 1. Clone Repository
 
