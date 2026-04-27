@@ -29,7 +29,7 @@ Install these first:
 
 ```bash
 git clone https://github.com/thesquarecat/city-events-tracker.git
-cd city-events-tracker
+cd city-events-tracker'''
 
 2. Install Dependencies
 npm install
