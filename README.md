@@ -27,7 +27,7 @@ Install these first:
 
 ### 1. Clone Repository
 
-```bash
+bash
 git clone https://github.com/thesquarecat/city-events-tracker.git
 cd city-events-tracker
 
