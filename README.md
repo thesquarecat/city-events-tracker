@@ -31,9 +31,4 @@ Team Notes
 Use GitHub to pull latest changes.
 
 
-Then:
 
-```bash
-git add README.md
-git commit -m "Update README"
-git push
